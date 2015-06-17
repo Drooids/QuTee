@@ -156,3 +156,5 @@ Notes
 - Use [supervisord](http://supervisord.org/) or similar for process monitoring / babysitting
 
 [TODO](https://github.com/anorgan/QuTee/issues?milestone=1&state=open)
+
+> Drooids
